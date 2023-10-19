@@ -3,17 +3,12 @@
     // TERMINAL NAVIGATION
     {
         "key": "ctrl+shift+a",
-        "command": "workbench.action.terminal.focusNext",
-        "when": "terminalFocus"
+        "command": "workbench.action.togglePanel"
     },
     {
         "key": "ctrl+shift+b",
-        "command": "workbench.action.terminal.focusPrevious",
+        "command": "workbench.action.terminal.focusNext",
         "when": "terminalFocus"
-    },
-    {
-        "key": "ctrl+shift+j",
-        "command": "workbench.action.togglePanel"
     },
     {
         "key": "ctrl+shift+n",
