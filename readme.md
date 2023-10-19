@@ -1,0 +1,1 @@
+This is just my VScode setup, feel free to copy and change as you wish. To run this setup download the vim extension by vscodevim. Add in your path for neovim to the location in the settings.json file, or just comment those lines to use regular vim.
