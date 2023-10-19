@@ -16,6 +16,7 @@
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "Bearded Theme Arc",
     "update.showReleaseNotes": false,
     "workbench.activityBar.visible": false,
     "zenMode.hideLineNumbers": false,
