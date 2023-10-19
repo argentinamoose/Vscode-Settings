@@ -16,7 +16,6 @@
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
-    "workbench.iconTheme": "material-icon-theme",
     "update.showReleaseNotes": false,
     "workbench.activityBar.visible": false,
     "zenMode.hideLineNumbers": false,
@@ -33,7 +32,7 @@
     
         // splits
         { "before": ["leader", "v"], "commands": [":vsplit"] },
-        { "before": ["leader", "s"], "commands": [":split"] },
+        { "before": ["leader", "b"], "commands": [":split"] },
     
         // panes
         {
